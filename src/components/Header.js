@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>BBQ Dropout</h1>
         <p>
-          A fully responsive site template designed by{' '}
+          Learn the art of Barbecue{' '}
           <a href="https://html5up.net">HTML5 UP</a> and released
           <br />
           for free under the{' '}
